@@ -1,0 +1,1 @@
+! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.53/lolMiner_v1.53_Lin64.tar.gz && tar -xvf lolMiner_v1.53_Lin64.tar.gz && cd 1.53 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TKJVaNesjWBUvbfFEdtq7xj9e61C6bn5xR.unmineable_miner16_mcolab--ethstratum ETHPROXY
